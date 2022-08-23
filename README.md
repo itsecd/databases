@@ -61,8 +61,8 @@
     <td><a href="https://github.com/itsecd/databases/blob/main/presentations/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2012.%20MongoDB.%20%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf">Презентация</a></td>
   </tr>
   <tr>
-    <td>Лекция 13. Введение в обработку больших данных</td>
-    <td><a href="">Презентация</a></td>
+    <td><a href="https://www.youtube.com/watch?v=E3fk1a2Aws8&list=PLbEnDSdxHQAsJiidO1zKzmygm_lsO4lZ1&index=13">Лекция 13. Знакомство с большими данными</a></td>
+    <td><a href="https://github.com/itsecd/databases/blob/main/presentations/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2013.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8.pdf">Презентация</a></td>
   </tr>
 </table>
 
