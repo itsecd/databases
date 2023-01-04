@@ -49,7 +49,7 @@
     <td><a href="https://github.com/itsecd/databases/blob/main/presentations/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%209.%20%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8.pdf">Презентация</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=xnE8NQj6HEA&list=PLbEnDSdxHQAsJiidO1zKzmygm_lsO4lZ1&index=10">Лекция 10. Пространственные данные. JSON</a></td>
+    <td><a href="https://www.youtube.com/watch?v=pVKoXjrq-O4&list=PLbEnDSdxHQAsJiidO1zKzmygm_lsO4lZ1&index=10">Лекция 10. Пространственные данные. JSON</a></td>
     <td><a href="https://github.com/itsecd/databases/blob/main/presentations/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2010.%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.%20JSON.pdf">Презентация</a></td>
   </tr>
   <tr>
