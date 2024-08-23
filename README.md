@@ -29,7 +29,7 @@
     <td><a href="https://github.com/itsecd/databases/blob/main/presentations/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.%20%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20DDL.pdf">Презентация</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=LY01yx65SNw&list=PLbEnDSdxHQAsJiidO1zKzmygm_lsO4lZ1&index=5">Лекция 5. SQL. Операции манипулирования данными</a></td>
+    <td><a href="https://www.youtube.com/watch?v=QpisLzBL2FM&list=PLbEnDSdxHQAsJiidO1zKzmygm_lsO4lZ1&index=5">Лекция 5. SQL. Операции манипулирования данными</a></td>
     <td><a href="https://github.com/itsecd/databases/blob/main/presentations/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%205.%20SQL.%20%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8.pdf">Презентация</a></td>
   </tr>
   <tr>
